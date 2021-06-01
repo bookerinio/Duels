@@ -1,0 +1,7 @@
+name: Duels
+version: 1.0-SNAPSHOT
+main: me.booker.duels.Main
+api-version: 1.16
+commands:
+  duels:
+    description: Command for duels
